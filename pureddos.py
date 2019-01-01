@@ -5,6 +5,22 @@ import threading
 import random
 from banner import access
 
+
+"""
+########################################
+# Educational purpose only             #
+########################################
+# I'm not responsible for your actions #
+########################################
+
+
+
+Created By: TheTechHacker
+=======================================
+SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
+"""
+
+
 if sys.platform == "linux" or sys.platform == "linux2":
     os.system("clear")
 elif sys.platform == "win32":
