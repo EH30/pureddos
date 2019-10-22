@@ -5,7 +5,7 @@
 ########################################
 
 
-
+This Script Works on python2.7
 
 --------------------------------------------------
 git clone https://github.com/EH30/pureddos
