@@ -29,7 +29,7 @@ elif sys.platform == "win32":
 
 access.asciibanner()
 print ("\033[1;32m")
-url = raw_input("          URL:  ")
+url = raw_input("          URL:  ").strip()
 print ("\033[1;m")
 
 count = 0
