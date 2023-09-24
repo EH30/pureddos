@@ -4,6 +4,7 @@
 # I'm not responsible for your actions #
 ########################################
 
+for python3 download this: https://github.com/EH30/pureddos3/   
 
 This Script Works on python2.7
 
